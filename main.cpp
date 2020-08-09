@@ -31,8 +31,8 @@ int main() {
         url.push_back(line);
     }
     for (auto &i : url) {
-        std::cout << i << std::endl;
         if (is_invalid(i)) {
+            std::cout << i << std::endl;
             out_url.push_back(i);
         }
         usleep(100000);
