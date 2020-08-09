@@ -1,0 +1,3 @@
+/home/de8468/CLionProjects/delete_invalid_url/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/de8468/CLionProjects/delete_invalid_url/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/de8468/CLionProjects/delete_invalid_url/cmake-build-debug/CMakeFiles/delete_invalid_url.dir
